@@ -2,13 +2,13 @@
   "name": "AFK Bot",
   "bot-account": {
     "username": "LastSyrvivor",
-    "password": "",
+    "password": "11111",
     "type": "offline"
   },
   "server": {
     "ip": "Turtle777lol.aternos.me",
     "port": 20077,
-    "version": "",
+    "version": "1.20.1",
     "try-creative": false
   },
   "position": {
